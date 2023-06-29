@@ -4,6 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pyurlx"
+version = "0.0.1"
 authors = [
     {name = "James Marke", email = "mikeoxlong@saintly.com"},
     {name = "Callum Cardy", email = "pythonscratcher@email.cz"}
@@ -14,7 +15,6 @@ requires-python = ">=2.7"
 keywords = ["url", "shorten", "link"]
 license = {text = "BSD-3-Clause"}
 classifiers = [
-    "Link Shortener :: URLx",
     "Programming Language :: Python :: 2.7",
 ]
 dependencies = [
