@@ -1,7 +1,6 @@
-
 [project]
 name = "pyurlx"
-version = "0.0.1"
+version = "1.0.0"
 authors = [
     {name = "James Marke", email = "mikeoxlong@saintly.com"},
     {name = "Callum Cardy", email = "pythonscratcher@email.cz"},
@@ -18,4 +17,3 @@ dependencies = [
     "requests",
     'importlib-metadata; python_version<"2.7"',
 ]
-dynamic = ["version"]
