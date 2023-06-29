@@ -1,13 +1,10 @@
-[build-system]
-requires = ["requests", "setuptools"]
-build-backend = "setuptools.build_meta"
 
 [project]
 name = "pyurlx"
 version = "0.0.1"
 authors = [
     {name = "James Marke", email = "mikeoxlong@saintly.com"},
-    {name = "Callum Cardy", email = "pythonscratcher@email.cz"}
+    {name = "Callum Cardy", email = "pythonscratcher@email.cz"},
 ]
 description = "A cool python module which shortens links using the URLx API"
 readme = "README.md"
