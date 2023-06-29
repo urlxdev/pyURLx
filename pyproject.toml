@@ -3,7 +3,7 @@ requires = ["requests", "setuptools"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "urlx"
+name = "pyurlx"
 authors = [
     {name = "James Marke", email = "mikeoxlong@saintly.com"},
     {name = "Callum Cardy", email = "pythonscratcher@email.cz"}
