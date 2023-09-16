@@ -1,11 +1,11 @@
 [project]
 name = "pyurlx"
-version = "1.0.0"
+version = "2.0.0"
 authors = [
     {name = "James Marke", email = "mikeoxlong@saintly.com"},
     {name = "Callum Cardy", email = "pythonscratcher@email.cz"},
 ]
-description = "A cool python module which shortens links using the URLx API"
+description = "A cool python module which can do link management using the URLx API"
 readme = "README.md"
 requires-python = ">=2.7"
 keywords = ["url", "shorten", "link"]
