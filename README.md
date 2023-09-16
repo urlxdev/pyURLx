@@ -11,6 +11,7 @@ To use the module, you can install it through pip:
 ## How to Use
 You can use the module to shorten links and create qr codes. The module is very simple to use. To shorten a link, use the following code:
 <code>
+<<<<<<< HEAD
 from pyurlx import tools<br>
 link = tools.shorten("example.com")<br>
 print(link)
@@ -27,3 +28,9 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 ## License
 This project is licensed under the BSD-3 License.
+=======
+from pyurlx import tools
+link = tools.shorten("example.com")
+print(link)
+</code>
+>>>>>>> 3b3dc78098ea86da8da1cd14424ca321286951ad
